@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">906721588298</string>
+  <string name="google_storage_bucket" translatable="false">penalti-fdb1b.appspot.com</string>
+  <string name="project_id" translatable="false">penalti-fdb1b</string>
+  <string name="google_api_key" translatable="false">AIzaSyBZPnWQJYnqZ6PyUKI3Qj19u5ukwcz0d50</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBZPnWQJYnqZ6PyUKI3Qj19u5ukwcz0d50</string>
+  <string name="google_app_id" translatable="false">1:906721588298:android:fe7b9432abfa0b1eaee2b3</string>
+  <string name="default_web_client_id" translatable="false">906721588298-bsd4b7mkl9hrb27vbs3785lvd0g7jih7.apps.googleusercontent.com</string>
+</resources>

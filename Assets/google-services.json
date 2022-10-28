@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631346905427",
+    "project_id": "kobzar-6b276",
+    "storage_bucket": "kobzar-6b276.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631346905427:android:ac1eb59451a35e05b261a6",
+        "android_client_info": {
+          "package_name": "everylimgs.moenty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631346905427-27t0iho887biqeogj70gp398h83d1dbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsHyTT_1PLHGEVb2P_HQlR5Vr4DTSwAs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631346905427-27t0iho887biqeogj70gp398h83d1dbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
